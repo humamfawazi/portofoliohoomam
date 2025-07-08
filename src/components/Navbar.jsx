@@ -106,7 +106,7 @@ export const Navbar = () => {
             activeClass="bg-white/10 text-white"
             className="cursor-pointer text-lg font-normal px-4 py-2 rounded-full transition-all duration-300 text-white hover:text-xl"
           >
-            Experience
+            Experiences
           </Link>
         </li>
         <li>

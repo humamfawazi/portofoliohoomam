@@ -123,7 +123,7 @@ function App() {
       deskripsi2:
         "Prototype Sweethy saat ini masih dalam proses pengembangan. Aplikasi ini dirancang untuk membantu pemantauan kesehatan gula darah, mengingat tingginya kasus gula darah di Indonesia. Sweethy akan dikolaborasikan dengan alat pengukur gula darah untuk memudahkan pengguna dalam memantau kadar gula secara real-time",
       link2:
-        "https://www.figma.com/design/EsO8ZlsBPRlo7gWR6liq7F/Sweethy?node-id=2-2&t=GvcBwppKn3am3jRT-1",
+        "https://www.figma.com/design/EsO8ZlsBPRlo7gWR6liq7F/Sweethy?node-id=0-1&t=zxcQ5kYA8njuyCY2-1",
     },
     {
       img2: porto7,
