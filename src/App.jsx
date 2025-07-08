@@ -330,7 +330,7 @@ function App() {
                     Proyek terakhir: Web aplikasi pencegahan stunting.
                   </li>
                   <li>
-                    <i className="bi bi-window-stack text-purple-400 mr-2"></i>
+                    <i class="bi bi-tools text-purple-400 mr-2"></i>
                     Proyek saat ini: Web aplikasi UD Putri Laut
                   </li>
                 </motion.ul>
