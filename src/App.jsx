@@ -33,6 +33,7 @@ import {
   porto5,
   porto6,
   cvku,
+  porto7,
 } from "../data";
 
 // Reusable component for fade-in on scroll
@@ -119,7 +120,7 @@ function App() {
         "Prototype Sweethy saat ini masih dalam proses pengembangan. Aplikasi ini dirancang untuk membantu pemantauan kesehatan gula darah, mengingat tingginya kasus gula darah di Indonesia. Sweethy akan dikolaborasikan dengan alat pengukur gula darah untuk memudahkan pengguna dalam memantau kadar gula secara real-time",
     },
     {
-      img2: porto4,
+      img2: porto7,
       label2: "UI/UX Aplikasi Bisnis UD Putri Laut",
       deskripsi2:
         "UI/UX sistem ini masih dalam proses pengembangan, dengan tujuan utama untuk menghadirkan pengalaman pengguna yang mudah digunakan oleh tim dari UD Putri Laut. Sistem ini mencakup berbagai fitur kompleks mulai dari input data pemasok, kelola pembelian dan penjualan, proses produksi, transaksi umum, akuntansi, hingga penyusunan laporan.",
