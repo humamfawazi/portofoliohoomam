@@ -98,13 +98,13 @@ function App() {
       deskripsi2:
         "Prototype SiBook di atas merupakan aplikasi baca buku digital yang dirancang untuk meningkatkan literasi di Indonesia. SiBook menyediakan layanan baca buku online, pencarian cerdas berbasis AI Deep Learning, serta fitur AI Interactive Storytelling yang membuat pengalaman membaca lebih menarik. Selain itu, tersedia fitur medsos bagi para pengguna",
       link2:
-        "https://www.figma.com/proto/DsKUrJ7c7tMifYtfjKPUYb/SiBook-UNMA?page-id=0%3A1&node-id=1-4243&viewport=-7052%2C-11549%2C1.36&t=iHejZaS0DC7DlLJy-1&scaling=contain&content-scaling=fixed&starting-point-node-id=1%3A4060",
+        "https://www.figma.com/design/DsKUrJ7c7tMifYtfjKPUYb/SiBook-UNMA?node-id=0-1&t=zDCIIXTjmJMRNb4g-1",
     },
     {
       img2: porto5,
       label2: "UI/UX Web Aplikasi StuntCare",
       deskripsi2:
-        "UI/UX ini merupakan perancangan dari web aplikasi Stuntcare. Proses perancangan dilakukan melalui observasi langsung terhadap kebutuhan pengguna, termasuk wawancara dengan orang tua dan tenaga kesehatan. Desain difokuskan pada kemudahan akses, kejelasan informasi pertumbuhan anak, serta interaksi saat menggunakan fitur konsultasi dan pemantauan",
+        "UI/UX ini merupakan perancangan dari web aplikasi Stuntcare. Proses perancangan dilakukan melalui observasi langsung terhadap kebutuhan pengguna, termasuk wawancara dengan orang tua. Desain difokuskan pada kemudahan akses, kejelasan informasi pertumbuhan anak, serta interaksi saat menggunakan fitur konsultasi dan pemantauan",
       link2:
         "https://www.figma.com/design/waErSEnIKRVxEX8WGUsYJS/STUNTCARE?node-id=0-1&t=0QBWTW6yBRFXmHxV-1",
     },
@@ -122,6 +122,8 @@ function App() {
       label2: "UI/UX Aplikasi Sweethy",
       deskripsi2:
         "Prototype Sweethy saat ini masih dalam proses pengembangan. Aplikasi ini dirancang untuk membantu pemantauan kesehatan gula darah, mengingat tingginya kasus gula darah di Indonesia. Sweethy akan dikolaborasikan dengan alat pengukur gula darah untuk memudahkan pengguna dalam memantau kadar gula secara real-time",
+      link2:
+        "https://www.figma.com/design/EsO8ZlsBPRlo7gWR6liq7F/Sweethy?node-id=2-2&t=GvcBwppKn3am3jRT-1",
     },
     {
       img2: porto7,
@@ -191,7 +193,7 @@ function App() {
                 >
                   Halo! Saya Humam Nasywa Fawazi, seorang mahasiswa yang sedang
                   belajar pengembangan perangkat lunak dengan minat mendalam
-                  dalam UI/UX Design dan Software Development. Saya berdedikasi
+                  dalam UI/UX Designer dan Website Developer. Saya berdedikasi
                   menciptakan solusi digital yang fungsional dan estetis, dengan
                   pengalaman membangun aplikasi web yang responsif dan ramah
                   pengguna.
@@ -324,7 +326,8 @@ function App() {
                   </li>
                   <li>
                     <i className="bi bi-people-fill text-purple-400 mr-2"></i>
-                    Aktif di organisasi Remaja Masjid dan Karang Taruna.
+                    Aktif di organisasi Takmir Masjid, Remaja Masjid, dan Karang
+                    Taruna.
                   </li>
                   <li>
                     <i className="bi bi-briefcase-fill text-purple-400 mr-2"></i>
@@ -338,6 +341,11 @@ function App() {
                   <li>
                     <i class="bi bi-tools text-purple-400 mr-2"></i>
                     Proyek saat ini: Web aplikasi UD Putri Laut
+                  </li>
+                  <li>
+                    <i class="bi bi-calendar-event text-purple-400 mr-2"></i>
+                    Lomba saat ini: GEMASTIK XVIII dan Lomba Inovasi Digital
+                    Mahasiswa (LIDM)
                   </li>
                 </motion.ul>
               </FadeInWhenVisible>
