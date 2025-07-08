@@ -80,7 +80,7 @@ function App() {
     { img: gambardebian, label: "Debian" },
     { img: gambaradobeai, label: "Illustrator" },
     { img: gambaradobepr, label: "Premiere Pro" },
-    { img: gambarli, label: "Lighroom" },
+    { img: gambarli, label: "Lightroom" },
     { img: gambarps, label: "Photoshop" },
   ];
 
