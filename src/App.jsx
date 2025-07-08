@@ -77,8 +77,6 @@ function App() {
     { img: gambarmikrotik, label: "Mikrotik" },
     { img: gambaradobeai, label: "Illustrator" },
     { img: gambaradobepr, label: "Premiere Pro" },
-    { img: gambarexcel, label: "Excel" },
-    { img: gambarexcel, label: "Excel" },
   ];
 
   const expericence = [
