@@ -29,10 +29,9 @@ import Tools20 from "./assets/tools/excel.png";
 import Tools21 from "./assets/tools/porto1.png";
 import Tools22 from "./assets/tools/porto2.png";
 import Tools23 from "./assets/tools/porto3.png";
-import Tools24 from "./assets/tools/porto4.png";
 import Tools25 from "./assets/tools/porto5.png";
 import Tools26 from "./assets/tools/porto6.png";
-import Tools26 from "./assets/tools/porto7.png";
+import Tools28 from "./assets/tools/porto7.png";
 import Tools27 from "./assets/tools/cvku.pdf";
 
 export const gambarReactJS = Tools2;
@@ -54,10 +53,9 @@ export const gambarexcel = Tools20;
 export const porto1 = Tools21;
 export const porto2 = Tools22;
 export const porto3 = Tools23;
-export const porto4 = Tools24;
 export const porto5 = Tools25;
 export const porto6 = Tools26;
-export const porto7 = Tools27;
+export const porto7 = Tools28;
 export const cvku = Tools27;
 
 export const listTools = [
@@ -221,12 +219,5 @@ export const listTools = [
     nama: "porto3",
     ket: "Design App",
     dad: "2300",
-  },
-  {
-    id: 24,
-    gambar: Tools24,
-    nama: "porto4",
-    ket: "Design App",
-    dad: "2400",
   },
 ];
