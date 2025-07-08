@@ -20,7 +20,7 @@ import Tools11 from "./assets/tools/figma.png";
 import Tools12 from "./assets/tools/html.png";
 import Tools13 from "./assets/tools/css.png";
 import Tools14 from "./assets/tools/php.png";
-import Tools15 from "./assets/tools/laravel.png";
+import Tools15 from "./assets/tools/Laravel.png";
 import Tools16 from "./assets/tools/cisco.png";
 import Tools17 from "./assets/tools/mysql.png";
 import Tools18 from "./assets/tools/mikrotik.png";
