@@ -32,13 +32,16 @@ import {
   porto6,
   cvku,
   porto7,
+  gambarli,
+  gambardebian,
+  gambarps,
 } from "../data";
 
 // Reusable component for fade-in on scroll
 const FadeInWhenVisible = ({ children, delay = 0, duration = 0.8, y = 20 }) => {
   const { ref, inView } = useInView({
-    triggerOnce: false, // ubah dari true ke false!
-    threshold: 0.2, // biar tidak terlalu sensitif
+    triggerOnce: false,
+    threshold: 0.2,
   });
 
   return (
@@ -56,10 +59,10 @@ const FadeInWhenVisible = ({ children, delay = 0, duration = 0.8, y = 20 }) => {
 function App() {
   useEffect(() => {
     AOS.init({
-      duration: 800, // durasi animasi (ms)
-      once: true, // animasi hanya sekali
-      delay: 0, // delay awal
-      offset: 100, // jarak scroll dari elemen baru mulai animasi
+      duration: 800,
+      once: true,
+      delay: 0,
+      offset: 100,
     });
   }, []);
 
@@ -74,8 +77,11 @@ function App() {
     { img: gambarnodejs, label: "NodeJS" },
     { img: gambarcisco, label: "Cisco" },
     { img: gambarmikrotik, label: "Mikrotik" },
+    { img: gambardebian, label: "Debian" },
     { img: gambaradobeai, label: "Illustrator" },
     { img: gambaradobepr, label: "Premiere Pro" },
+    { img: gambarli, label: "Lighroom" },
+    { img: gambarps, label: "Photoshop" },
   ];
 
   const expericence = [
