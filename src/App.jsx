@@ -180,7 +180,7 @@ function App() {
                     UI/UX Designer
                   </span>
                   <span className="inline-block bg-gradient-to-r from-purple-500 to-pink-500 text-white px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold">
-                    Software Engineer
+                    Website Developer
                   </span>
                 </div>
               </motion.span>
@@ -279,12 +279,12 @@ function App() {
                   transition={{ duration: 1, delay: 0.4 }}
                 >
                   Saya adalah mahasiswa Universitas Negeri Semarang yang
-                  memiliki ketertarikan besar pada bidang UI/UX Design,
-                  Front-End Development, dan Software Engineering. Saya senang
-                  menciptakan antarmuka yang menarik secara visual, sekaligus
-                  memastikan pengalaman pengguna yang intuitif dan efisien.
-                  Tujuan saya adalah mengembangkan solusi digital yang tidak
-                  hanya berfungsi, tetapi juga menyenangkan digunakan.
+                  memiliki ketertarikan besar pada bidang UI/UX Design dan Web
+                  Development. Saya senang menciptakan antarmuka yang menarik
+                  secara visual, sekaligus memastikan pengalaman pengguna yang
+                  intuitif dan efisien. Tujuan saya adalah mengembangkan solusi
+                  digital yang tidak hanya berfungsi, tetapi juga menyenangkan
+                  digunakan.
                 </motion.p>
               </FadeInWhenVisible>
 
@@ -331,7 +331,7 @@ function App() {
                   </li>
                   <li>
                     <i className="bi bi-briefcase-fill text-purple-400 mr-2"></i>
-                    Freelancer: UI/UX Designer, Software Engineer, vector art,
+                    Freelancer: UI/UX Designer, Website Developer, vector art,
                     fotografi/videografi.
                   </li>
                   <li>
@@ -460,7 +460,7 @@ function App() {
               {" "}
               <ProfileCard
                 name="Humam Nasywa"
-                title="Software Engineer"
+                title="UI/UX Designer | Web Developer"
                 handle="humamfawazi"
                 status="Mahasiswa"
                 contactText="Contact Me"
