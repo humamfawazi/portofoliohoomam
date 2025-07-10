@@ -335,6 +335,10 @@ function App() {
                     fotografi/videografi.
                   </li>
                   <li>
+                    <i className="bi bi-journal-bookmark-fill text-purple-400 mr-2"></i>
+                    Publikasi Jurnal SINTA 4
+                  </li>
+                  <li>
                     <i className="bi bi-window-stack text-purple-400 mr-2"></i>
                     Proyek terakhir: Web aplikasi pencegahan stunting.
                   </li>
