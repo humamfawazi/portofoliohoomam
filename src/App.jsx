@@ -35,6 +35,7 @@ import {
   gambarli,
   gambardebian,
   gambarps,
+  porto8,
 } from "../data";
 
 // Reusable component for fade-in on scroll
@@ -132,6 +133,14 @@ function App() {
         "UI/UX sistem ini masih dalam proses pengembangan, dengan tujuan utama untuk menghadirkan pengalaman pengguna yang mudah digunakan oleh tim dari UD Putri Laut. Sistem ini mencakup berbagai fitur kompleks mulai dari input data pemasok, kelola pembelian dan penjualan, proses produksi, transaksi umum, akuntansi, hingga penyusunan laporan.",
       link2:
         "https://www.figma.com/design/CCMfsHoygJRqeEHItCY9oe/Untitled?node-id=34-1441&t=l0xhyYqjzGhU6GXo-1",
+    },
+    {
+      img2: porto8,
+      label2: "UI/UX Aplikasi SPARRING",
+      deskripsi2:
+        "SPARRING dirancang untuk kemudahan navigasi, kenyamanan visual, dan kejelasan fungsi. Desain antarmuka mengutamakan user flow yang sederhana agar pengguna dapat dengan cepat memahami fitur utama seperti “Find a Game”, “Create Game”, dan “Community”.",
+      link2:
+        "https://www.figma.com/design/HETTjO2ZbVRpxoeOAUP4UZ/SPARRING?node-id=0-1&t=nnP4FKEK434uV5Ny-1",
     },
   ];
 

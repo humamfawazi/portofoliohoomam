@@ -36,6 +36,7 @@ import Tools27 from "./assets/tools/cvku.pdf";
 import Tools29 from "./assets/tools/debian.png";
 import Tools30 from "./assets/tools/li.png";
 import Tools31 from "./assets/tools/ps.png";
+import Tools32 from "./assets/tools/porto8.png";
 
 export const gambarReactJS = Tools2;
 export const gambarVScode = Tools1;
@@ -63,6 +64,7 @@ export const cvku = Tools27;
 export const gambardebian = Tools29;
 export const gambarli = Tools30;
 export const gambarps = Tools31;
+export const porto8 = Tools32;
 
 export const listTools = [
   {
